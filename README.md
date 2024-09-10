@@ -6,7 +6,7 @@
 ![image](https://github.com/user-attachments/assets/91100e08-5469-4328-a96d-8588ba430bb0)
 
 ### While Unity 6 is installing
-> Installing Unity 6 will take roughly 10-30 minutes – The next few steps can be done cncurrently while those work in the background
+> Installing Unity 6 will take roughly 10-30 minutes – The next few steps can be done concurrently while those work in the background
 
 3. Fork this repository to a location on your computer
 
