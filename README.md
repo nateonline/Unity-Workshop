@@ -1,6 +1,6 @@
 # Unity Workshop
 
-1. Download & Install [Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)
+1. Download & Install [Unity Hub](https://unity.com/download)
 
 2. Install the Unity Editor version `6000.0.0f1` from the [Unity Download Archive](https://unity.com/releases/editor/archive)
 ![image](https://github.com/user-attachments/assets/91100e08-5469-4328-a96d-8588ba430bb0)
